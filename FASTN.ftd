@@ -1,0 +1,18 @@
+-- import: fastn
+
+-- fastn.package: nithinlycanz.github.io/fastnfoliotemp
+favicon: /-/nithinlycanz.github.io/fastnfoliotemp/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: shaheen-senpai.github.io/fastn-cs-tail
+-- fastn.dependency: sarvom.github.io/holy-angel-typography
+-- fastn.dependency: fastnui.trizwit.com
+
+
+
+-- fastn.auto-import: nithinlycanz.github.io/fastnfoliotemp/FASTN/ds
+-- fastn.auto-import: nithinlycanz.github.io/fastnfoliotemp/assets
+-- fastn.auto-import: doc-site
+
