@@ -32,11 +32,11 @@ children: $page.c
 
 -- footer:
 icon-1: $assets.files.assets.linkedIn.png
-url-1: https://www.linkedin.com/company/trizwit/
+url-1: https://www.linkedin.com/in/nithinlycanz/
 icon-2: $assets.files.assets.twit.svg
-url-2: https://twitter.com/trizwit
+url-2: https://twitter.com/nithinlycanz
 icon-3: $assets.files.assets.github.svg
-url-3: https://github.com/Trizwit
+url-3: https://github.com/nithinlycanz
 
 -- end: ftd.column
 
