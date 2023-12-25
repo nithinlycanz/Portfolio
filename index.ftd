@@ -15,10 +15,10 @@ cta-text-2-url: index.html
 cta-text-3-url: index.html
 
 -- hero-1.hero-1: I'm Nithin PT 
-cta-button-1: Resume
-link-1: https://www.resume.com/
-cta-button-2: Schedule Meeting
-link-2: https://calendly.com/
+cta-button-1: Website
+link-1: https://nithinlycanz.github.io
+cta-button-2: Email
+link-2: nithinpathayathodi@gmail.com
 cover: $assets.files.assets.nithin.jpg
 
 I’m a self-taught back-end developer based in Kerala, India.
