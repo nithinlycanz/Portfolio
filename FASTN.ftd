@@ -16,3 +16,6 @@ favicon: /-/nithinlycanz.github.io/portfolio/favicon.ico
 -- fastn.auto-import: nithinlycanz.github.io/Portfolio/assets
 -- fastn.auto-import: doc-site
 
+-- fastn.sitemap:
+
+# Home: index.html
