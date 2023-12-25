@@ -408,22 +408,22 @@ role: $inherited.types.label-large
 style: semi-bold
 color: white
 
--- ftd.text: FASTN 
+-- ftd.text: WILDEFIRE 
 role: $inherited.types.label-large
 style: semi-bold
 color: white
-link: https://fastn.com/
+link: https://nithinlycanz.github.io
 
 -- ftd.text: by
 role: $inherited.types.label-large
 style: semi-bold
 color: white
 
--- ftd.text: Trizwit
+-- ftd.text: NITHINLYCANZ
 role: $inherited.types.label-large
 style: semi-bold
 color: white
-link: https://trizwit.com/
+link: https://nithinlycanz.github.io
 
 -- end: ftd.row
 
